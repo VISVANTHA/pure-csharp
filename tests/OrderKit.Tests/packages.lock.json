@@ -4,9 +4,9 @@
     "net8.0": {
       "BouncyCastle": {
         "type": "Direct",
-        "requested": "[1.8.1, )",
-        "resolved": "1.8.1",
-        "contentHash": "nH+P67LavO5EcxjKdBxFfRdfdFhivS3Xp3+0br1KcpCI8DM6ksCWy6YYZjk7XFV+VsHGtkUovwIZ/vmCp42geA=="
+        "requested": "[1.8.9, )",
+        "resolved": "1.8.9",
+        "contentHash": "axnBgvdD5n+FnEG6efk/tfKuMFru7R/EoISH9zjh319yb3HD24TEHSAbNN/lTRT2ulOGRxDgOsCjkuk08iwWPg=="
       },
       "coverlet.collector": {
         "type": "Direct",
@@ -674,7 +674,7 @@
       "orderkit": {
         "type": "Project",
         "dependencies": {
-          "BouncyCastle": "[1.8.1, )",
+          "BouncyCastle": "[1.8.9, )",
           "Microsoft.AspNet.Mvc": "[5.2.3, )",
           "Newtonsoft.Json": "[9.0.1, )",
           "System.Net.Http": "[4.3.0, )",
